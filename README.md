@@ -1,1 +1,1 @@
-App at Google app engine!!
+Go to http://my-hello-guestbook.appspot.com and post your thoughts.
